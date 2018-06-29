@@ -1,0 +1,93 @@
+body{
+    background : rgb(50,10,30);
+    
+    color : white;
+    
+    font-family : "Andale Mono","monospace";
+    
+    font-weight : normal;
+
+}
+
+.message{
+    width : 10%
+
+    border : 10px solid rgb(60, 60, 60);
+    
+    font-size : 1em;
+
+    
+    
+}
+
+
+#incoming{
+    border-radius :5px 5px 0px 5px;
+
+    background : rgb(60, 60, 60);
+
+    width : 50%
+}
+
+#outgoing{
+    border-radius :5px 5px 5px 0px;
+    
+    background : rgb(60, 60, 60)
+;
+    
+    position : relative;
+    
+    left : 75%;
+    
+    text-align : left;
+    
+    width : 56%
+}
+
+.time{
+    
+    font-size : 10px;
+
+}
+
+#time-R{
+    position : relative;
+    
+    left: 39%;
+    
+    text-align :left;
+}
+
+
+#time-S{
+    position : relative ;
+
+    left : 30%;
+    
+    text-align : right;
+
+}
+
+.sender{
+    font-size : 1em ;
+    
+    background : ;
+    
+    margin-bottom :10px;
+    
+
+}
+
+
+#recipent{
+    font-size : 1em;
+    
+    position : relative;
+    
+    right : 30%;
+    
+    text-align : center
+
+    
+
+}
